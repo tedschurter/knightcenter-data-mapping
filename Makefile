@@ -1,2 +1,6 @@
-# Here's where we'll put our Make commands
+# Using makefile
+directories: 
+	-mkdir tmp
+	-mkdir data
+
 
